@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there 👋, I’m Ellen!
+#  I’m Ellen!
 
 I’m a data-driven problem solver with a background in **Statistical Science** 📊 & **Economics** 📈, and I **graduated from the University of Toronto** 🎓.  
 I love turning messy data into insights that actually **make a difference** — whether that’s improving customer experiences 💬, streamlining operations ⚙️, or supporting projects that help communities 🌱.
