@@ -45,9 +45,9 @@ Python • R • SQL • Power BI • Excel (VBA, PivotTables, Power Query) • 
 - 🎵 Music fuels my focus (especially when coding or analyzing data)  
 - ☕ Coffee is my daily boost — can’t start the day without it  
 
-Feel free to connect or check out some of my projects!
-
 ## 📫 How to reach me
 - Email: ellenyy.zhang@outlook.com  
 - LinkedIn: [Ellen-Zhang-Data](https://www.linkedin.com/in/ellen-zhang-data)  
 - GitHub: [Ellen-Zhang-Data](https://github.com/Ellen-Zhang-Data)
+
+Feel free to connect or check out some of my projects!
