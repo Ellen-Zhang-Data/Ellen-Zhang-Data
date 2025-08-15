@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m **Ellen** — a data-driven problem solver with a background in **Statistical Science** 📊 & **Economics** 📈, and I **graduated from the University of Toronto** 🎓.  
-I love turning messy data into insights that actually **make a difference** — whether it’s improving customer experiences 💬, streamlining operations ⚙️, or supporting projects that help communities 🌱.
+I’m **Ellen** — a data-driven problem solver with a background in **Statistical Science** 📊 & **Economics** 📈, and I **graduated from the University of Toronto** 🎓. I love turning messy data into insights that actually **make a difference** — whether it’s improving customer experiences 💬, streamlining operations ⚙️, or supporting projects that help communities 🌱.
 
 ## 💡 What I’m Into
 - 📊 Data analytics & BI  
