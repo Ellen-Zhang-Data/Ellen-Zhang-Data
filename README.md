@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Ellen Zhang, a data-driven problem solver with a background in **Statistical Science** & ***Economics* and a strong interest in **data analytics**, **business intelligence**, and **social impact research**. I graduated from the University of Toronto 🎓 with a focus on **data analytics and economics**, and I’m passionate about using data to drive meaningful change—whether that’s through improving logistics, optimizing operations, or supporting community-focused projects.
+I'm Ellen Zhang, a data-driven problem solver with a background in **Statistical Science** & **Economics** and a strong interest in **data analytics**, **business intelligence**, and **social impact research**. I graduated from the University of Toronto 🎓 with a focus on **data analytics and economics**, and I’m passionate about using data to drive meaningful change—whether that’s through improving logistics, optimizing operations, or supporting community-focused projects.
 
 ## 💡 What I’m interested in
 - 📊 Data analytics & BI
