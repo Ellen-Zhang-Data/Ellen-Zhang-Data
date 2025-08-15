@@ -15,28 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hey there 👋, I’m Ellen!
 
-I'm Ellen Zhang, a data-driven problem solver with a background in **Statistical Science** & **Economics** and a strong interest in **data analytics**, **business intelligence**, and **social impact research**. I graduated from the University of Toronto 🎓 with a focus on **data analytics and economics**, and I’m passionate about using data to drive meaningful change—whether that’s through improving logistics, optimizing operations, or supporting community-focused projects.
+I’m a data-driven problem solver with a background in **Statistical Science** 📊 & **Economics** 📈, and I **graduated from the University of Toronto** 🎓.  
+I love turning messy data into insights that actually **make a difference** — whether that’s improving customer experiences 💬, streamlining operations ⚙️, or supporting projects that help communities 🌱.
 
-## 💡 What I’m interested in
-- 📊 Data analytics & BI
-- 🤖 Machine learning & AI for social good
-- 🧠 Behavioural and social data research
-- 📦 Supply chain optimization
-- 📈 Business process automation
+## 💡 What I’m Into
+- 📊 Data analytics & BI  
+- 🤖 Machine learning & AI for social good  
+- 🧠 Understanding people through behavioral & social data  
+- 📦 Supply chain and operations optimization  
+- 📈 Automating processes to save time and effort  
 
-## 🧰 Tools & Technologies
-Python • R • SQL • Power BI • Excel (VBA, PivotTable, Power Query) • Tableau • Java • Stata • Git
+## 🛠 Tools I Play With
+Python • R • SQL • Power BI • Excel (VBA, PivotTables, Power Query) • Tableau • Java • Stata • Git  
 
-## 🌱 Currently learning
-- Advanced Power BI DAX and M functions
-- Cloud-based data pipelines (Azure, BigQuery)
-- Real-world logistics modelling
+## 🌱 Learning Right Now
+- Advanced Power BI DAX & M functions  
+- Cloud data pipelines (Azure & BigQuery)  
+- Applying data to real-world logistics problems  
 
-## 🎯 Goals
-- Contribute to open-source analytics or research projects
-- Transition into full-time roles in **data analysis**, **research**, or **operations analytics**
-- Explore more opportunities in **tech for good**
+## 🎯 My Goals
+- Contribute to open-source projects or research that has a real impact  
+- Step into full-time roles in **data analysis**, **business analysis**, or **operations analytics**  
+- Explore opportunities in **tech for good**  
 
 ## 🌟 Fun facts
 - 📸 I love photography, especially nature and cityscapes  
@@ -46,3 +48,8 @@ Python • R • SQL • Power BI • Excel (VBA, PivotTable, Power Query) • T
 - ☕ Coffee is my daily boost — can’t start the day without it  
 
 Feel free to connect or check out some of my projects!
+
+## 📫 How to reach me
+- Email: ellenyy.zhang@outlook.com  
+- LinkedIn: [Ellen-Zhang-Data](https://www.linkedin.com/in/ellen-zhang-data)  
+- GitHub: [Ellen-Zhang-Data](https://github.com/Ellen-Zhang-Data)
